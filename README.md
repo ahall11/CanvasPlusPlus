@@ -3,7 +3,11 @@
 A Django website built to be integrated with [canvas](https://canvas.instructure.com/login/canvas) to keep students up to date on their current class assignments.
 
 ## Planning
+
+Database Schema:
 ![Database Schema](https://github.com/ahall11/CanvasPlusPlus/blob/master/planning/Database%20Schema.png?raw=true)
+
+Preliminary Program Design:
 ![How the website works...prelim](https://github.com/ahall11/CanvasPlusPlus/blob/master/planning/MVC.png?raw=true)
 
 ## Built With
