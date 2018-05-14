@@ -4,10 +4,10 @@ A Django website built to be integrated with [canvas](https://canvas.instructure
 
 ## Planning
 
-Database Schema:
+Database Schema: <br />
 ![Database Schema](https://github.com/ahall11/CanvasPlusPlus/blob/master/planning/Database%20Schema.png?raw=true)
 
-Preliminary Program Design:
+Preliminary Program Design: <br />
 ![How the website works...prelim](https://github.com/ahall11/CanvasPlusPlus/blob/master/planning/MVC.png?raw=true)
 
 ## Built With
